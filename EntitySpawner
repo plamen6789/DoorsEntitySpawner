@@ -1,4 +1,1 @@
-script.Parent.Touched:Connect(function(hit)
- local Player = game.Players:GetPlayerFromCharacter(hit.Parent)
- Player:kick("There is a new loadstring! IT CAN BE FOUND IN PLAMEN'S DISCORD!")
-end)
+game.Players.LocalPlayer:Kick("Updated loadstring can be found in Plamen's Server. Do not use this one.")
